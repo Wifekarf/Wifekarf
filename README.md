@@ -130,7 +130,7 @@ Tests API • Tests automatisés • CI/CD Testing
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Wifekarf\&show_icons=true\&theme=dark)
 
 ---
 
